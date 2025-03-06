@@ -11,3 +11,8 @@ int main(){
 
     return 0;
 }
+
+
+// printf() returns the number of characters printed.
+// Nested printf() calls execute inside-out.
+// The output may look confusing because printf() prints first and then returns the character count.
